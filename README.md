@@ -32,6 +32,8 @@ pip install -r requirements.txt
 
 ## Usage
 
+run the following in order: data_analysis.py > data_preprocessing.py > train_model.py > evaluate_model.py > inference.py > model.comparision.py
+
 - run `python3 app.py`
 - open 127.0.0.1:5000 to try the inputs
 
