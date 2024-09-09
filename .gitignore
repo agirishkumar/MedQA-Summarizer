@@ -1,0 +1,5 @@
+medqa
+__pycache__/
+*.pyc
+.DS_Store
+models/trained_summarizer/model.safetensors
